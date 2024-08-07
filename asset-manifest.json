@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Unit-Conversion-App/static/css/main.7942ac4f.css",
+    "main.js": "/React-Unit-Conversion-App/static/js/main.21ce4e38.js",
+    "index.html": "/React-Unit-Conversion-App/index.html",
+    "main.7942ac4f.css.map": "/React-Unit-Conversion-App/static/css/main.7942ac4f.css.map",
+    "main.21ce4e38.js.map": "/React-Unit-Conversion-App/static/js/main.21ce4e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7942ac4f.css",
+    "static/js/main.21ce4e38.js"
+  ]
+}
