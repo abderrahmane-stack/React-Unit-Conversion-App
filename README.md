@@ -20,11 +20,11 @@ Check out the live demo of the application on [GitHub Pages](https://abderrahman
 #### How to Run Locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/yourusername/React-Unit-Conversion-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd unit-converter
+   cd React-Unit-Conversion-App
    ```
 3. Install dependencies:
    ```bash
