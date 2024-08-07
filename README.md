@@ -1,3 +1,48 @@
+
+# Unit Conversion Application
+
+This is a simple unit conversion application built with React.js. The application allows users to convert values between various units of length, including meters, kilometers, centimeters, millimeters, miles, yards, feet, and inches.
+
+#### Features:
+- Convert between different units of length
+- User-friendly interface
+- Real-time conversion results
+
+#### Technologies Used:
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+#### Live Demo:
+Check out the live demo of the application on [GitHub Pages](https://abderrahmane-stack.github.io/React-Unit-Conversion-App).
+
+#### How to Run Locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/unit-converter.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd unit-converter
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+#### How to Deploy:
+To deploy the application to GitHub Pages, run:
+```bash
+npm run deploy
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +113,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
